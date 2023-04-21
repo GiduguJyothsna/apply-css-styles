@@ -1,0 +1,27 @@
+.bg-container{
+    background-image: url('F:/images/flower.jpg');
+    background-size: cover;
+    width:400px;
+    height:80vh;
+    margin:10px;
+    border:solid black;
+    background-repeat: no-repeat;
+}
+.background{
+    text-align: center;
+    background-color: white;
+    background-color:cover;
+    font-family:verdana;
+    padding:5px;
+    border-top-left-radius:25px;
+    border-top-right-radius:25px;
+}
+.text{
+    text-align: center;
+}
+.button{
+    text-align: center;
+    margin-left:3px;
+    font-size:15px;
+    border-radius:20px;
+}

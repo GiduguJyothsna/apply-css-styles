@@ -1,0 +1,32 @@
+.background{
+    background-image:radial-gradient(lightgreen,yellow,pink);
+}
+.head{
+    font-size:40px;
+    font-family:'roboto';
+}
+.head1{
+    font-size:20px;
+    font-weight:600;
+    font-family:Verdana;
+}
+.list{
+    list-style-type:none;
+    font-size:20px;
+    font-family:serif;
+}
+.line{
+    width:1000px;
+    font-style:solid;
+    background-color:black;
+}
+.text{
+    background-color:#323f4b;
+    width:30px;
+    height:30px;
+    color:white;
+    margin:10px;
+    font-size:20px;
+    font-family:verdana;
+    border-radius:25px;
+}

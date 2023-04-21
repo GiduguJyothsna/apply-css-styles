@@ -1,0 +1,43 @@
+.background{
+            background-image:url('F:/images/boy.png');
+            background-size:cover;
+            width:350px;
+            height:90vh;
+            background-repeat:no-repeat;
+            margin:5px;
+        }
+        .main{
+            background-color:white;
+            border-top-left-radius:10px;
+            border-top-right-radius:10px;
+            padding:10px;
+        }
+        .head{
+            color: rgb(173,105,237);
+            font-family:'Times New Roman';
+        }
+        .text{
+            font-family:Serif;
+            color:#323f4b
+
+        }
+        .row{
+            font-family:Serif;
+            font-size:15px;
+            margin:10px;
+        }
+        .button1{
+            border-radius:8px;
+            width:120px;
+            padding:5px;
+            margin:10px;
+            border-color:#d7dfe9;
+        }
+        .button2{
+            background-color:rgb(173, 105, 237);
+            border-radius:8px;
+            width:120px;
+            margin:10px;
+            padding:5px;
+            border-color:#d7dfe9;
+        }
